@@ -1,0 +1,9 @@
+{
+  "endpoints": [
+    {
+      "route": "/predict",
+      "method": "POST",
+      "description": "Recebe características e retorna uma previsão."
+    }
+  ]
+}
